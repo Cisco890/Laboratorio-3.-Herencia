@@ -1,0 +1,16 @@
+id,categoria,nombre,cantidad_disponible,cantidad_vendidos,estado,precio,ml,tipo,gramos,sabor,tamaño,pan,queso,jamón,aderezo
+1,Bebidas,Refresco de Cola,100,50,true,15,330,Con Gas,0,Neutral,,,
+2,Bebidas,Agua Mineral,200,100,true,15,500,Agua Pura,0,Neutral,,,
+3,Bebidas,Energizante,50,20,true,25,250,Energética,0,Neutral,,,
+4,Bebidas,Coctel de Frutas,80,30,true,18,250,Natural,0,Neutral,,,
+5,Bebidas,Vino Tinto,30,10,true,35,750,Con Licor,0,Neutral,,,
+6,Snacks,Papas Fritas,120,60,true,5,0,,150,Barbacoa,Individual,,,,
+7,Snacks,Palitos de Queso,80,30,true,5,0,,120,Neutral,Familiar,,,,
+8,Snacks,Tortillita de Maíz,150,70,true,5,0,,100,Picante,Individual,,,,
+9,Snacks,Galletas Saladas,90,40,true,7,0,,200,Neutral,Familiar,,,,
+10,Snacks,Frituras picantes,100,50,true,10,0,,50,Picante,Individual,,,,
+11,Deli,Sándwich de Pavo,60,20,true,20,0,,0,Neutral,Individual,Baguete,Mozzarella,Pavo,Mostaza Dulce
+12,Deli,Panini de Jamón,45,15,true,15,0,,0,Neutral,Individual,Chapata,Cheddar,Cerdo,BBQ
+13,Deli,Baguete de jamon,70,25,true,25,0,,0,Neutral,Individual,Baguete,Mozzarella,Cerdo,Mostaza Dulce
+14,Deli,Panini de Queso,50,20,true,12,0,,0,Neutral,Individual,Chapata,Cheddar,Mozzarella,BBQ
+15,Deli,Panini de Pavo,55,15,true,20,0,,0,Neutral,Individual,Chapata,Mozzarella,Pavo,Mostaza Dulce
